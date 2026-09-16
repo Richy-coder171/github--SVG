@@ -1,0 +1,16 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="GitHub Profile Banner"/>
+</p>
+
+---
+
+### Hi 👋 I'm Richy
+
+Frontend Engineer | Full Stack Developer | Open Source Contributor
+
+- 🔭 I'm currently working on...
+- 🌱 I'm currently learning...
+- 👯 I'm looking to collaborate on...
+- 🤔 I'm looking for help with...
+- 💬 Ask me about...
+- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
